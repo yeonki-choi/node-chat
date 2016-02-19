@@ -1,3 +1,5 @@
 applications:
 - name: node-chat
   memory: 64M
+  url: 
+  - ${name}.app.helionit.io
